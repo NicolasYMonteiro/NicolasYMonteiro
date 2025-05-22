@@ -3,7 +3,7 @@
 ---
 
 - 💻 Currently working with **Next.js, Angular, Node.js, Spring Boot, and Java**
-- 🌐 Check out my portfolio: [nicolasmonteiro-portifolio.vercel.app](https://nicolasmonteiro-portifolio.vercel.app/)
+- 🌐 Check out my portfolio: [nicolasmonteiro-portfolio.vercel.app](https://nicolasmonteiro-portfolio.vercel.app/)
 - 📫 Reach me at: **nicolasmonteiro0123@gmail.com**
 
 ---
