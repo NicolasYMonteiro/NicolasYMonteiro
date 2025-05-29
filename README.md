@@ -9,6 +9,7 @@
 - 🎓 IT Technician | Statistics student at UFBA
 - 🚀 Passionate about building solutions that create real impact
 - 📁 Portfolio: [nicolasmonteiro-portfolio.vercel.app](https://nicolasmonteiro-portfolio.vercel.app)
+- 🔗 LinkedIn: [linkedin.com/in/nícolas-monteiro](https://linkedin.com/in/nícolas-monteiro)
 - 📬 Reach me at: **nicolasmonteiro0123@gmail.com**
 
 ---
@@ -43,7 +44,7 @@
 ### 🤝 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/nícolas-monteiro-5237b2282" target="_blank">
+  <a href="https://www.linkedin.com/in/nícolas-monteiro" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
