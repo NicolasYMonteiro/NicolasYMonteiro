@@ -32,13 +32,13 @@
 
 ### 🧩 Projects Highlights
 
-- 🔗 [**Sistema Web de Cuidados para Clínica de Saúde**](https://github.com/nicolasymonteiro/clinica-saude)  
+- 🔗 [**Sistema Web de Cuidados para Clínica de Saúde**]  
   Project developed in partnership with Embrapii and IFBA. Uses Spring Boot on the backend and Next.js on the frontend.
   
 - 🔗 [**Portfólio Pessoal**](https://nicolasmonteiro-portfolio.vercel.app)  
   Built with Next.js and Tailwind CSS, it demonstrates modern UI and efficient componentization.
   
-- 🔗 [**Desenvolvimento Atlas**](https://github.com/NicolasYMonteiro/task-manager-frontend.git) *(em andamento)*  
+- 🔗 [**Desenvolvimento Atlas**](https://atlasdesenvolvimento.vercel.app)
   Front-end of a full-stack task management app. Built with Next.js and Tailwind CSS, this interface includes task planner, and productivity dashboard.
 
 ### 🤝 Connect with Me
